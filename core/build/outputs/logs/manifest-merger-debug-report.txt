@@ -1,0 +1,45 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/abc/Downloads/android project/offlineApp/core/src/main/AndroidManifest.xml:2:1-6:12
+INJECTED from /Users/abc/Downloads/android project/offlineApp/core/src/main/AndroidManifest.xml:2:1-6:12
+INJECTED from /Users/abc/Downloads/android project/offlineApp/core/src/main/AndroidManifest.xml:2:1-6:12
+INJECTED from /Users/abc/Downloads/android project/offlineApp/core/src/main/AndroidManifest.xml:2:1-6:12
+INJECTED from /Users/abc/Downloads/android project/offlineApp/core/src/main/AndroidManifest.xml:2:1-6:12
+INJECTED from /Users/abc/Downloads/android project/offlineApp/core/src/main/AndroidManifest.xml:2:1-6:12
+INJECTED from /Users/abc/Downloads/android project/offlineApp/core/src/main/AndroidManifest.xml:2:1-6:12
+	package
+		ADDED from /Users/abc/Downloads/android project/offlineApp/core/src/main/AndroidManifest.xml:3:5-31
+		INJECTED from /Users/abc/Downloads/android project/offlineApp/core/src/main/AndroidManifest.xml
+		INJECTED from /Users/abc/Downloads/android project/offlineApp/core/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/abc/Downloads/android project/offlineApp/core/src/main/AndroidManifest.xml
+		ADDED from /Users/abc/Downloads/android project/offlineApp/core/src/main/AndroidManifest.xml:2:1-6:12
+		INJECTED from /Users/abc/Downloads/android project/offlineApp/core/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/abc/Downloads/android project/offlineApp/core/src/main/AndroidManifest.xml
+		ADDED from /Users/abc/Downloads/android project/offlineApp/core/src/main/AndroidManifest.xml:2:1-6:12
+		INJECTED from /Users/abc/Downloads/android project/offlineApp/core/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/abc/Downloads/android project/offlineApp/core/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/abc/Downloads/android project/offlineApp/core/src/main/AndroidManifest.xml:4:5-78
+	android:name
+		ADDED from /Users/abc/Downloads/android project/offlineApp/core/src/main/AndroidManifest.xml:4:22-76
+uses-permission#android.permission.INTERNET
+ADDED from /Users/abc/Downloads/android project/offlineApp/core/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/abc/Downloads/android project/offlineApp/core/src/main/AndroidManifest.xml:5:22-64
+uses-sdk
+INJECTED from /Users/abc/Downloads/android project/offlineApp/core/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/abc/Downloads/android project/offlineApp/core/src/main/AndroidManifest.xml
+INJECTED from /Users/abc/Downloads/android project/offlineApp/core/src/main/AndroidManifest.xml
+INJECTED from /Users/abc/Downloads/android project/offlineApp/core/src/main/AndroidManifest.xml
+INJECTED from /Users/abc/Downloads/android project/offlineApp/core/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/abc/Downloads/android project/offlineApp/core/src/main/AndroidManifest.xml
+		ADDED from /Users/abc/Downloads/android project/offlineApp/core/src/main/AndroidManifest.xml
+		INJECTED from /Users/abc/Downloads/android project/offlineApp/core/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/abc/Downloads/android project/offlineApp/core/src/main/AndroidManifest.xml
+		ADDED from /Users/abc/Downloads/android project/offlineApp/core/src/main/AndroidManifest.xml
+		INJECTED from /Users/abc/Downloads/android project/offlineApp/core/src/main/AndroidManifest.xml

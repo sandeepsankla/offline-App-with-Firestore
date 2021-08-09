@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/abc/Downloads/android project/offlineApp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/Users/abc/Downloads/android project/offlineApp/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/abc/Downloads/android project/offlineApp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/layout_add_user_details.xml",
+        "source": "/Users/abc/Downloads/android project/offlineApp/app/src/main/res/layout/layout_add_user_details.xml"
+    },
+    {
+        "merged": "/Users/abc/Downloads/android project/offlineApp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_user_layout.xml",
+        "source": "/Users/abc/Downloads/android project/offlineApp/app/src/main/res/layout/item_user_layout.xml"
+    }
+]

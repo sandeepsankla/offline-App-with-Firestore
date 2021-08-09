@@ -1,0 +1,44 @@
+com/example/core/di/RemoteApiModule_ProvideCoroutineCallAdapterFactoryFactory.java
+ com.example.core.di.RemoteApiModule_ProvideCoroutineCallAdapterFactoryFactory
+com/example/core/di/RemoteApiModule_ProvideLiveDataCallAdapterFactoryFactory.java
+ com.example.core.di.RemoteApiModule_ProvideLiveDataCallAdapterFactoryFactory
+com/example/core/di/FormattedResponse_Factory.java
+ com.example.core.di.FormattedResponse_Factory
+com/example/core/di/RemoteApiModule_ProvideGsonConverterFactoryFactory.java
+ com.example.core.di.RemoteApiModule_ProvideGsonConverterFactoryFactory
+com/example/core/di/RemoteApiModule_ProvidesOkHttpClientFactory.java
+ com.example.core.di.RemoteApiModule_ProvidesOkHttpClientFactory
+com/example/core/di/RemoteApiModule_ProvidesNetworkServiceFactory.java
+ com.example.core.di.RemoteApiModule_ProvidesNetworkServiceFactory
+com/example/core/util/ErrorMessages_Factory.java
+ com.example.core.util.ErrorMessages_Factory
+com/example/core/base/BaseViewModel_MembersInjector.java
+ com.example.core.base.BaseViewModel_MembersInjector
+com/example/core/di/RemoteApiModule_ProvidesAppLogFactory.java
+ com.example.core.di.RemoteApiModule_ProvidesAppLogFactory
+com/example/core/util/AppLog_Factory.java
+ com.example.core.util.AppLog_Factory
+ com.example.core.util.AppLog_Factory$InstanceHolder
+com/example/core/util/HeaderInceptor_Factory.java
+ com.example.core.util.HeaderInceptor_Factory
+ com.example.core.util.HeaderInceptor_Factory$InstanceHolder
+com/example/core/di/FormattedResponse_MembersInjector.java
+ com.example.core.di.FormattedResponse_MembersInjector
+com/example/core/di/RemoteApiModule_ProvideTimeoutInterceptorFactory.java
+ com.example.core.di.RemoteApiModule_ProvideTimeoutInterceptorFactory
+hilt_aggregated_deps/com_example_core_di_RemoteApiModuleModuleDeps.java
+ hilt_aggregated_deps.com_example_core_di_RemoteApiModuleModuleDeps
+com/example/core/di/RemoteApiModule_ProvideHeaderInterceptorFactory.java
+ com.example.core.di.RemoteApiModule_ProvideHeaderInterceptorFactory
+com/example/core/base/BaseActivity_MembersInjector.java
+ com.example.core.base.BaseActivity_MembersInjector
+com/example/core/BuildConfig.java
+ com.example.core.BuildConfig
+com/example/core/di/RemoteApiModule_ProvideRetrofitFactory.java
+ com.example.core.di.RemoteApiModule_ProvideRetrofitFactory
+com/example/core/di/RemoteApiModule_ProvideLoggingInterceptorFactory.java
+ com.example.core.di.RemoteApiModule_ProvideLoggingInterceptorFactory
+com/example/core/di/RemoteApiModule_ProvideLiveDataResponseBodyConverterFactoryFactory.java
+ com.example.core.di.RemoteApiModule_ProvideLiveDataResponseBodyConverterFactoryFactory
+com/example/core/util/ErrorMessages_MembersInjector.java
+ com.example.core.util.ErrorMessages_MembersInjector
