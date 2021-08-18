@@ -12,7 +12,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:usesCleartextTraffic="true"
-        android:theme="@style/Theme.Rupeek">
+        android:theme="@style/Theme.Offline">
         <activity android:name="com.example.sandeep.ui.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
