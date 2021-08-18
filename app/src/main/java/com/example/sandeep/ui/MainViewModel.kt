@@ -15,6 +15,8 @@ class MainViewModel  @Inject constructor(private val repository : MainRepository
 
     private var _person = MutableLiveData<Resource<Person>>()
     val person: LiveData<Resource<Person>> = _person
+    private var _listPerson = MutableLiveData<Resource<Person>>()
+    val listPerson: LiveData<Resource<Person>> = _listPerson
 
     fun addPerson(name: String, city: String) {
         viewModelScope.launch {
@@ -26,7 +28,9 @@ class MainViewModel  @Inject constructor(private val repository : MainRepository
 
     fun getPerson(){
         viewModelScope.launch {
-
+            repository.getAllPerson().collect {
+                _listPerson.value = it
+            }
         }
     }
 }

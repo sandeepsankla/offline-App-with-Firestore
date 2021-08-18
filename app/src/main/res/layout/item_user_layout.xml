@@ -3,13 +3,15 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-   android:layout_margin="8dp"
+    android:layout_margin="4dp"
+    android:elevation="5dp"
     android:layout_height="wrap_content"
     app:cardCornerRadius="16dp">
 
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:background="#333333"
         android:padding="16dp">
         
         <androidx.appcompat.widget.AppCompatImageView
@@ -26,7 +28,7 @@
             style="@style/TextAppearance.AppCompat.Headline"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:textColor="@color/black"
+            android:textColor="@color/purple_200"
             android:textSize="16sp"
             android:textStyle="bold"
             android:layout_marginStart="4dp"
@@ -40,6 +42,7 @@
             android:id="@+id/tvCity"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:textColor="@color/purple_200"
             app:layout_constraintStart_toStartOf="@id/tvUserName"
             app:layout_constraintTop_toBottomOf="@id/tvUserName"
             tools:text="Delhi" />

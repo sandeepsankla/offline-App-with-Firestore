@@ -38,7 +38,7 @@
         app:layout_constraintTop_toBottomOf="@id/etUserCity"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        android:backgroundTint="@color/design_default_color_primary"
+        android:backgroundTint="@color/purple_200"
         android:text="@string/submit"
         android:textColor="@color/white"
         android:layout_marginTop="20dp"

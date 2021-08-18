@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".ui.MainActivity"
-    android:backgroundTint="@color/background">
+    android:background="@color/purple_700">
 
     <TextView
         android:layout_margin="16dp"
@@ -15,17 +15,22 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         android:id="@+id/tvHeader"
-        android:text="@string/lat_long"/>
+        android:textColor="@color/black"
+        android:textSize="18sp"
+        android:text="User list"/>
 
    <androidx.recyclerview.widget.RecyclerView
        android:layout_width="match_parent"
-       android:layout_height="wrap_content"
+       android:layout_height="0dp"
        android:id="@+id/recyclerView"
+       app:layout_constraintHorizontal_weight="1"
        android:layout_margin="8dp"
        tools:listitem="@layout/item_user_layout"
        app:layout_constraintTop_toBottomOf="@id/tvHeader"
        app:layout_constraintStart_toStartOf="parent"
-       app:layout_constraintEnd_toEndOf="parent"/>
+       app:layout_constraintEnd_toEndOf="parent"
+       app:layout_constraintBottom_toBottomOf="parent"
+      />
     <ProgressBar
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -41,6 +46,7 @@
      android:id="@+id/fab"
      android:src="@drawable/ic_profile"
      android:layout_margin="16dp"
+     android:backgroundTint="@color/purple_700"
      app:layout_constraintBottom_toBottomOf="parent"
      app:layout_constraintEnd_toEndOf="parent"/>
 
